@@ -7,13 +7,13 @@ int main(){
     char operador;
     
     
-    printf("Digite um numero(+ / - *):");
+    printf("Digite um numero:");
     if (scanf("%f",&valor1) != 1 ) {
         printf("\nDigite um numero valido!");
         return 1;
     } 
    
-    printf("Digite um operador:");
+    printf("Digite um símbolo do operador (+ / - *):");
     scanf("\n%c",&operador);
     
     printf("Digite outro numero:");
