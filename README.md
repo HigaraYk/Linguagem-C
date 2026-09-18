@@ -1,0 +1,1 @@
+A calculadora é básica (+ / * -)
